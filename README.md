@@ -4,8 +4,6 @@
 </h1>
 
 ### :man_technologist: About Me:
-I am a Mobile App Developer
-
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/H1jSPXCJmo8AZi3gdP/giphy.gif" width="200" align="center"/>
 </div>
