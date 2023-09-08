@@ -7,7 +7,7 @@
 
 - 🔭: I’m working as a Mobile Crossplatform Software Engineer in Fintech sector for more than 2 years.
 
-- ⚡: In my free time, I work on my own project and read tech articles.
+- ⚡: In my free time, I work on my own project and improve my Flutter skills.
 
 - 📫:How to reach me: [![Telegram Badge](https://img.shields.io/badge/-telegram-grey?style=flat&logo=Telegram&logoColor=white)](https://t.me/cas_shew)
 
