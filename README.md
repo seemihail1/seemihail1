@@ -4,15 +4,17 @@
 </h1>
 
 ### :man_technologist: About Me:
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/H1jSPXCJmo8AZi3gdP/giphy.gif" width="200" align="center"/>
-</div>
 
 - 🔭: I’m working as a Mobile Crossplatform Software Engineer in Fintech sector for more than 2 years.
 
 - ⚡: In my free time, I work on my own project and read tech articles.
 
 - 📫:How to reach me: [![Telegram Badge](https://img.shields.io/badge/-telegram-grey?style=flat&logo=Telegram&logoColor=white)](https://t.me/cas_shew)
+
+  <div id="header" align="center">
+  <img src="https://media.giphy.com/media/H1jSPXCJmo8AZi3gdP/giphy.gif" width="200" align="center"/>
+</div>
+
 
 ### :hammer_and_wrench: Languages and Tools:
 
