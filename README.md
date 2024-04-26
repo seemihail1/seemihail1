@@ -5,7 +5,7 @@
 
 ### :man_technologist: About Me:
 
-- 🔭: I’m working as a Mobile Crossplatform Software Engineer in Fintech sector for more than 2 years.
+- 🔭: I’m working as a Mobile Crossplatform Software Engineer in Fintech sector for more than 3 years.
 
 - ⚡: In my free time, I work on my own project and improve my Flutter skills.
 
